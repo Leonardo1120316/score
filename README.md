@@ -1,5 +1,5 @@
 # 学生成绩管理系统
-学生成绩管理系统，基于Express + react搭建
+学生成绩管理系统，基于Express + vue搭建
 ScoreManageSystem
 #### 运行环境
 Node 16.20.0
